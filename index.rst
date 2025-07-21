@@ -17,4 +17,7 @@ Mochi Health: Know every thing Before you subscribe
    :alt: mochi helth
    :target: https://www.google.com/
 
+Mochi Health is a virtual obesity clinic offering affordable access to FDA-approved weight loss medications like Wegovy, Zepbound, and Ozempic. Designed for people with a BMI of 30+ , Mochi makes treatment accessible with or without insurance.
+
+Unlike traditional clinics, Mochi offers telehealth consultations, prescription support, and ongoing care through a monthly membership all from the comfort of home.
 

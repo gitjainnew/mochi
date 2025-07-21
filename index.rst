@@ -96,8 +96,7 @@ Conclusion: Is Mochi Health Right for You?
 
 If you're struggling with obesity or weight-related health issues, **Mochi Health** provides a modern, accessible, and affordable solution. Whether or not you have insurance, Mochi offers a path to clinical weight loss with real medical support.
 
-To learn more, explore full program details, pricing, and alternatives here:  
-**[Visit Full Guide to Mochi Health](https://www.google.com/url?q=https%3A%2F%2Fbcetsamba.in%2Fmochi-health-review-affordable-weight-loss-treatment%2F&sa=D&sntz=1&usg=AOvVaw2C3Hy-PL-Xm_p7gIO_jMnc)**
+
 
 Frequently Asked Questions
 ---------------------------

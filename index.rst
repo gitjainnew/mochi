@@ -5,3 +5,7 @@ Mochi Health: Know every thing Before you subscribe
    :google-site-verification: VD279M_GngGCAqPG6jAJ9MtlNRCU9GusRHzkw__wRkA
    :description: know more
 
+.. image:: blank.png
+   :width: 350px
+   :align: center
+   :height: 100px

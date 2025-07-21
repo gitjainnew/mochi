@@ -21,3 +21,6 @@ Mochi Health: Know every thing Before you subscribe
    :width: 350px
    :align: center
    :height: 100px
+
+
+Ok i got it

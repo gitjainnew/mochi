@@ -38,4 +38,4 @@ gfhjfjhjgf
 eririeu
 
 123898945
-
+Most users begin treatment within 1-2 weeks, and ongoing check-ins ensure personalized care and progress monitoring.

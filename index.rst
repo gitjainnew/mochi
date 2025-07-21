@@ -9,3 +9,10 @@ Mochi Health: Know every thing Before you subscribe
    :width: 350px
    :align: center
    :height: 100px
+
+.. image:: know-more.png
+   :width: 350px
+   :align: center
+   :height: 100px
+   :alt: mochi helth
+   :target: https://www.google.com/
